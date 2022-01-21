@@ -9,3 +9,7 @@ private void f2() {
         // Placeholder method (v2.0)
     }
 }
+private void f3() {
+    // Placeholder method (v3.0)
+}
+}
